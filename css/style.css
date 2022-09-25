@@ -39,10 +39,12 @@
 	margin-bottom: 92px;
 }
 
-img {
-
-	max-width: 100%;
+.image {
 	margin-bottom: 60px;
+}
+
+img {
+	max-width: 100%;
 }
 
 .text__one,
